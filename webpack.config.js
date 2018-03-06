@@ -31,10 +31,10 @@ module.exports = [
       },
       'handsontable': {
         root: 'Handsontable',
-        commonjs2: 'handsontable',
-        commonjs: 'handsontable',
-        amd: 'handsontable',
-        umd: 'handsontable'
+        commonjs2: 'handsontable-pro',
+        commonjs: 'handsontable-pro',
+        amd: 'handsontable-pro',
+        umd: 'handsontable-pro'
       }
     },
 
